@@ -1,4 +1,4 @@
-# Projecto - Linguagem-R-Tecnicas-Econometricas-aplicadas-ao-mercado-cambial-e-accionista
+# Projecto de Mestrado Analise de Dados - Linguagem-R Cadeira Análise Exploratória de Dados.
 
 Este repositório possui um projecto no qual tentei realizar meus trabalhos iniciais em Linguagem R.
 
